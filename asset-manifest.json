@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/y/static/css/main.3523d05f.css",
+    "main.js": "/y/static/js/main.2b3889d0.js",
+    "static/media/yasir.png": "/y/static/media/yasir.4cc93aaee7d0c3872f49.png",
+    "index.html": "/y/index.html",
+    "main.3523d05f.css.map": "/y/static/css/main.3523d05f.css.map",
+    "main.2b3889d0.js.map": "/y/static/js/main.2b3889d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3523d05f.css",
+    "static/js/main.2b3889d0.js"
+  ]
+}
